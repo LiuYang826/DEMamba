@@ -32,7 +32,7 @@ pip install -r requirements.txt
 2. Train and evaluate the model. We provide all the above tasks under the folder ./scripts/. You can reproduce the results as the following examples:
 
 ```
-bash ./scripts/multivariate_forecasting/Traffic/DEMamba.sh
+bash ./scripts/Traffic/DEMamba.sh
 ```
 
 ## Citation
@@ -40,12 +40,6 @@ bash ./scripts/multivariate_forecasting/Traffic/DEMamba.sh
 If you find this repo helpful, please cite our paper. 
 
 ```
-@article{liu2023itransformer,
-  title={iTransformer: Inverted Transformers Are Effective for Time Series Forecasting},
-  author={Liu, Yong and Hu, Tengge and Zhang, Haoran and Wu, Haixu and Wang, Shiyu and Ma, Lintao and Long, Mingsheng},
-  journal={arXiv preprint arXiv:2310.06625},
-  year={2023}
-}
 ```
 
 ## Acknowledgement
